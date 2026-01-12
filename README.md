@@ -5,13 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o9-9&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=o9-9&theme=dark&hide_border=false" />
-</div>
-
----
-
 - ![Cambridge C1](https://img.shields.io/badge/English%20Level-C1%20Advanced-blue?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
