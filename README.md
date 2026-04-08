@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=o9-9&style=for-the-badge&color=blueviolet" />
-</p>
-
 ---
 
 ## Disclaimer
@@ -39,4 +35,8 @@ class o9 {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=o9-9&style=for-the-badge&color=blueviolet" />
 </p>
