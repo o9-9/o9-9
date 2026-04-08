@@ -42,4 +42,3 @@ class o9 {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
-```
