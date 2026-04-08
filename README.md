@@ -12,6 +12,13 @@
 
 ---
 
+## Disclaimer
+
+> **This profile and its projects are for educational purposes only.  
+> Use responsibly, ethically, and within legal boundaries.**
+
+---
+
 ```powershell
 class o9 {
     [string]$name
@@ -21,32 +28,14 @@ class o9 {
     o9() {
         $this.name = "o9"
         $this.stack = @("Wizardry meets Automation vibes")
-        $this.vibe = "⚰️"
+        $this.vibe = ""
     }
 
     [string] build() {
-        return "💀"
+        return ""
     }
 }
 ```
-
----
-
-
-| Repos                                                 | Language   |
-| ----------------------------------------------------- | ---------- |
-| [o99](https://github.com/o9-9/o99)                    | JavaScript |
-| [Nuncord](https://github.com/Nuncord/Nuncord)         | TypeScript |
-| [Ultimate](https://github.com/o9-9/Ultimate)          | PowerShell |
-| [Nonsense](https://github.com/o9-9/nonsense)          | PowerShell |
-| [Profile](https://github.com/o9-9/powershell-profile) | Powershell |
-
----
-
-## Disclaimer
-
-> **This profile and its projects are for educational purposes only.  
-> Use responsibly, ethically, and within legal boundaries.**
 
 ---
 
@@ -54,5 +43,3 @@ class o9 {
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
 ```
-
----
