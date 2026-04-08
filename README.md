@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="color:#00FFFF;">[o9](https://docs.o9ll.com)</span> </h1>
+<h1 align="center"> <span style="color:#00FFFF;">o9</span> </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%92%80" alt="Typing SVG" />
