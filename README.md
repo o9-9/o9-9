@@ -1,13 +1,11 @@
 <h1 align="center"> <span style="color:#00FFFF;">o9</span> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines= " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines" alt="" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=o9-9&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/o9-9?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/o9-9?style=for-the-badge" />
 </p>
 
 ---
